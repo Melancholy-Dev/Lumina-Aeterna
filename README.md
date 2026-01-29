@@ -1,5 +1,5 @@
 # Lumina Aeterna
-Lumina Aeterna is an open-source, metroidvania bullet-hell RPG with 2D pixel art. The game follows the journey of a cultist who crashes on Earth. Humanity is gone, and instead it will encounter bizarre creatures, some friendly, some not. Explore ruined cities, collect powerful relics, and survive fast-paced real time combat with many projectiles and unique abilities.
+Lumina Aeterna is an open-source metroidvania bullet-hell RPG with 2D pixel art. The game follows the journey of a cultist who crashes on Earth. Humanity is gone, and instead it will encounter bizarre creatures, some friendly, some not. Explore ruined cities, collect powerful relics, and survive fast-paced real time combat with many projectiles and unique abilities.
 
 The repository is currently almost empty because the project is still a WIP (Work In Progress). Real‑time changes and all files are kept in a private repository until the first release. If you want to learn more, you can join the official Project Lumina Discord server:
 https://discord.gg/qR6hWDKmfN
